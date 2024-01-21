@@ -1,9 +1,3 @@
 
 
-const Javascript = () => {
-  return 
-    
-  
-}
-
-export default Javascript
+console.log("Akshay");
